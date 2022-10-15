@@ -161,3 +161,5 @@ CKEDITOR_UPLOAD_PATH = "uploads/"
 
 CRISPY_TEMPLATE_PACK = 'uni_form'
 
+# test 
+# this test
